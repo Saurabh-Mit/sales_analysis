@@ -7,8 +7,10 @@ The information displayed are:
 - Top 5 products
 - Revenue by Year
 
+![image](https://user-images.githubusercontent.com/73440161/142752714-d7dff1bf-2df8-49f0-ad71-70fdde565d6a.png)
+
 # Methodology
-![image](https://user-images.githubusercontent.com/73440161/133935784-6760d215-a0e4-46b6-b550-f4d95bf04cfd.png)
+![image](https://user-images.githubusercontent.com/73440161/142752837-df50a381-1c93-4826-84df-b4dfe0a91bec.png)
 
 # Deployement
 A deployed version can be seen here:
